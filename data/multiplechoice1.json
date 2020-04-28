@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Which is the largest organ in the human body?",
+        "answers": ["Heart", "Skin", "Large Intestine"],
+        "correctAnswer": "Skin"
+    },
+    {
+        "text": "Five dollars is worth how many nickels?",
+        "answers": ["25", "50", "100"],
+        "correctAnswer": "100"
+    },
+    {
+        "text": "What do the letters in the GMT time zone stand for?",
+        "answers": ["Global Meridian Time", "Greenwich Mean Time", "General Median Time"],
+        "correctAnswer": "Greenwich Mean Time"
+    },
+    {
+        "text": "What is the French word for 'hat'?",
+        "answers": ["Chapeau", "Écharpe", "Bonnet"],
+        "correctAnswer": "Chapeau"
+    }
+]
